@@ -36,5 +36,13 @@ const movies = [
         date: "1997-07-12",
         rating: 8.3, 
         poster: "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg"
+    },
+     {
+        title: "클레이페이스 포스터", 
+        year: 2026, 
+        date: "2026-10-07",
+        rating: 7.5, 
+        poster: "/LSGpoSAlitss0KOvVakkeUToZo.jpg"
     }
+
 ];
